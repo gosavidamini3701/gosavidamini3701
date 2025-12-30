@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hi! I'm a computer engineering student passionate about building impactful software solutions. With hands-on experience in Java development, web applications, and frameworks like Spring and Spring Boot, I'm actively growing my skills through projects that solve real-world problems.<br><br>🌱 Currently exploring innovative applications of Java and Spring in full-stack development.<br>🏆 5-star Java coder on HackerRank with extensive practice in data structures and OOPs.<br><br>I’m eager to collaborate and contribute to open-source projects! Let's connect and create something meaningful together.
+Computer Engineering undergraduate (B.Tech, 2026) from RC Patel Institute of Technology, focused on Java-based backend and full-stack development. Experienced in Java, Servlets, JSP, Spring, and Spring Boot, with hands-on work on multiple projects emphasizing backend logic, application workflows, and maintainable system design.
 
+Active in competitive programming (140+ LeetCode, 1000+ CodeChef problems) and Rank 1 in Java on HackerRank, strengthening algorithmic problem-solving and coding efficiency.
+
+Gained industry exposure through internships at R3Systems India (Java Developer, Spring-based applications) and Sellable Technologies (SQL Developer, database management and query optimization).
+
+Currently expanding into full-stack development, with a focus on feature-driven, scalable, and efficient solutions. Committed to growing as a reliable, execution-oriented software developer capable of delivering production-ready systems with clarity and technical depth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Damini Gosavi](https://www.linkedin.com/in/damini-gosavi-40a850259/)) 
